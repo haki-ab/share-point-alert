@@ -28,4 +28,3 @@ All steps are documented in the `/screenshots` folder.
 - How to use dynamic content and triggers in Power Automate
 - How to build secure flows for internal file monitoring
 
-## ✅ This lab is part of my Canadian IT Lab Series 2025
